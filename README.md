@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanseongbugi&layout=donut)
 <br><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanseongbugi&show_icons=true)
 <br><br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanseongbugi)](https://solved.ac/hanseongbugi/)
+</div>
