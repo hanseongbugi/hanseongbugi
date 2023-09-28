@@ -5,7 +5,7 @@
 
 <h2>My, GitHub :cloud:</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanseongbugi&show_icons=true)
+[![Hanseongbugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanseongbugi&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanseongbugi&layout=compact)
 <br><br>
 
