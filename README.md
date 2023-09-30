@@ -30,8 +30,13 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=OpenGL&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> <br><br>
 
+<h2>Contact :door:</h2>
+<div align="center">
+  <a href="https://hanseongbugi2study.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link="https://hanseongbugi2study.tistory.com/"/></a>&nbsp&nbsp
+  <a href="mailto:bhsung123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhsung123@gmail.com"/></a>
+</div>
 </div>
 
 ## Award :trophy:
@@ -42,8 +47,4 @@
 * 2023 메타버스 개발자 경진대회
   * 팀 LET'S GO BOOGIE, 메타트윈 데이터를 활용한 재난경보 민방위 교육, 지정과제 우수상 [(주)모빌테크 대표상] 수상
 
-## Contact
-<div align="center">
-  <a href="https://hanseongbugi2study.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link="https://hanseongbugi2study.tistory.com/"/></a>&nbsp&nbsp
-  <a href="mailto:bhsung123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhsung123@gmail.com"/></a>
-</div>
+
