@@ -35,7 +35,7 @@
 <h2>Contact :door:</h2>
 <div align="center">
   <a href="https://hanseongbugi2study.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link="https://hanseongbugi2study.tistory.com/"/></a>&nbsp&nbsp
-  <a href="mailto:bhsung123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhsung123@gmail.com"/></a>
+  <a href="mailto:bhsung1@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Email&logoColor=white&link=mailto:bhsung1@naver.com"/></a>
 </div>
 </div>
 
